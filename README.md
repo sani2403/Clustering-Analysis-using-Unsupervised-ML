@@ -20,3 +20,6 @@ Objectives
 1. Preprocess the data.
 2. Determine the optimal number of clusters.
 3. Visualize the clusters.
+
+The project is for The Sparks Foundation Internship for June24 batch.
+#GRIPJUNE24 #TSF
