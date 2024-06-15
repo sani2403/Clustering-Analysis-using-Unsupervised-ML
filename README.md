@@ -21,5 +21,6 @@ Objectives
 2. Determine the optimal number of clusters.
 3. Visualize the clusters.
 
-The project is for The Sparks Foundation Internship for June24 batch.
+The project is for The Sparks Foundation Internship for the domain Data Science and Business Analytics June24 batch.
+the task 2 Prediction using Unsupervised ML
 #GRIPJUNE24 #TSF
